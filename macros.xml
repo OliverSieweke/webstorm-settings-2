@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <shortuct text="meta I" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
+      <typing text-keycode="78:0;65:0;77:0;69:0;59:1;32:0">name:</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
+      <typing text-keycode="80:0;65:0;84:0;72:0;59:1;32:0">path:</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorRight" />
+    </macro>
+  </component>
+</application>
+
