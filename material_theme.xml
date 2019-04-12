@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="tabOpacity" value="100" />
+    <option name="tabOpacity" value="47" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="a3be8c" />
     <option name="highlightColor" value="d08770" />
     <option name="selectedTheme" value="ARC_DARK" />
