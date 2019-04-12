@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="fileIcons" value="false" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -11,7 +12,6 @@
     <option name="statusBarTheme" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="useMaterialIcons" value="false" />
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="47" />
     <option name="highlightThickness" value="1" />
