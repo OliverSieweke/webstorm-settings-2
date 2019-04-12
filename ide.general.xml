@@ -21,6 +21,5 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="js.debugger.v8.use.any.breakpoint" value="false" />
     <entry key="ide.tooltip.initialDelay" value="801" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
