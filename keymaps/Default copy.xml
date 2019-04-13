@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="TemplateProjectProperties">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
