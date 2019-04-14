@@ -1,1 +1,7 @@
-<code_scheme name="Oli's Style" version="173" />
+<code_scheme name="Oli's Style" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="SOFT_MARGINS" value="100,120" />
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_AFTER_COMMA" value="false" />
+  </codeStyleSettings>
+</code_scheme>
