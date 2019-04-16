@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Default (Oli)" parent="Mac OS X 10.5+">
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
