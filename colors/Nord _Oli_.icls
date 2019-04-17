@@ -4,15 +4,18 @@
     <property name="created">2019-04-17T10:37:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-17T15:03:58</property>
+    <property name="modified">2019-04-17T16:09:58</property>
     <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="d8dee9" />
     <option name="CARET_ROW_COLOR" value="3b4252" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2e3440" />
@@ -50,13 +53,13 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
     <option name="TEARLINE_COLOR" value="4c566a" />
     <option name="TOOLTIP" value="434c5e" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="3b4252" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="3b4252" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="3b4252" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="b48ead" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="434c5e" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="4c566a" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="3b4252" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="3b4252" />
     <option name="WHITESPACES" value="4c566a" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ebcb8b" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="7a705e" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -186,9 +189,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4c566a" />
-        <option name="EFFECT_COLOR" value="88c0d0" />
-        <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
+        <option name="EFFECT_COLOR" value="bf616a" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -518,7 +519,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7a93af" />
+        <option name="FOREGROUND" value="8399af" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -1016,9 +1017,19 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.DEBUGGER_STMT">
+      <value>
+        <option name="FOREGROUND" value="bf616a" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="b48ead" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
