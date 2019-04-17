@@ -1,11 +1,11 @@
-<scheme name="_@user_Nord" version="142" parent_scheme="Darcula">
+<scheme name="Nord (Oli)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-08-17T11:16:53</property>
+    <property name="created">2019-04-17T10:37:14</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-04-17T10:37:27</property>
-    <property name="originalScheme">Nord</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-04-17T11:04:47</property>
+    <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -44,7 +44,7 @@
     <option name="QUESTION_HINT" value="434c5e" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
-    <option name="SELECTED_TEARLINE_COLOR" value="434c5e" />
+    <option name="SELECTED_TEARLINE_COLOR" value="b48ead" />
     <option name="SELECTION_BACKGROUND" value="434c5e" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
     <option name="TEARLINE_COLOR" value="4c566a" />
@@ -159,7 +159,7 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="b48ead" />
         <option name="BACKGROUND" value="434c5e" />
       </value>
     </option>
@@ -171,8 +171,8 @@
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="eceff4" />
-        <option name="BACKGROUND" value="434c5e" />
+        <option name="FOREGROUND" value="d8dee9" />
+        <option name="BACKGROUND" value="4c566a" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -1300,7 +1300,6 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b4252" />
         <option name="EFFECT_COLOR" value="88c0d0" />
       </value>
     </option>
