@@ -49,6 +49,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Fix ESLint Problems">
         <Item>
           <IdeaActionID>Javascript.Linters.EsLint.Fix</IdeaActionID>
