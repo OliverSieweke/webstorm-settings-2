@@ -129,6 +129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'start'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
