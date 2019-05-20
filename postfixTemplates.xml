@@ -1,0 +1,26 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="f@userDefined" key=".f" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="1 = $EXPR$ +$END$ 1" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.dart">
+        <value>
+          <set>
+            <option value="com.jetbrains.lang.dart.ide.template.postfix.DartRemotePostfixTemplate#.none" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="builtin.ts">
+        <value>
+          <set>
+            <option value="com.intellij.lang.typescript.template.postfix.TypeScriptCastPostfixTemplate#.cast" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
