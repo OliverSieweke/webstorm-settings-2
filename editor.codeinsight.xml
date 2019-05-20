@@ -6,4 +6,7 @@
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Oli's Inspections" />
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
 </application>
