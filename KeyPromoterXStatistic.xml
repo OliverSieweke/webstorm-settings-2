@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run Gulp/Grunt/npm Task">
+        <Item>
+          <IdeaActionID>RunJsbtTask</IdeaActionID>
+          <ShortCut>'⌥F11'</ShortCut>
+          <Description>Run Gulp/Grunt/npm Task</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run Inspection by Name...">
         <Item>
           <IdeaActionID>RunInspection</IdeaActionID>
