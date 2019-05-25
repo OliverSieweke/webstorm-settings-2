@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivatenpmToolWindow">
