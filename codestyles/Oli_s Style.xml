@@ -1053,7 +1053,6 @@
     <option name="SPACE_AROUND_BITWISE_OPERATORS" value="false" />
     <option name="SPACE_AROUND_MULTIPLICATIVE_OPERATORS" value="false" />
     <option name="SPACE_AROUND_SHIFT_OPERATORS" value="false" />
-    <option name="SPACE_BEFORE_SEMICOLON" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
