@@ -4,8 +4,11 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="0" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Oli's Inspections" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Oli's Inspections">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
