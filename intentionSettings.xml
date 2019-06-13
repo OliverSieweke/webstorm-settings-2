@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Convert to function expression" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert arrow function to anonymous function" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Add default export" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert to multi-line string template" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create Getter" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create Getter and Setter" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create Setter" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Create derived class / Implement interface" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Declare explicit class fields" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Initialize new fields from parameters" />
+  </component>
+</application>
