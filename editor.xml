@@ -43,4 +43,7 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingOpacity" value="35" />
+  </component>
 </application>

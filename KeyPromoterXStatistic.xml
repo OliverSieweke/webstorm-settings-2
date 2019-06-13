@@ -30,7 +30,7 @@
           <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Apply Current Layout</Description>
-          <Count>11</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -425,6 +425,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Restore Default Layout">
+        <Item>
+          <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
+          <ShortCut>'⇧F12'</ShortCut>
+          <Description>Restore Default Layout</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -646,7 +654,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -822,7 +830,7 @@
           <IdeaActionID>Graph.ZoomIn</IdeaActionID>
           <ShortCut>'+' or '='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>4</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom Out">
