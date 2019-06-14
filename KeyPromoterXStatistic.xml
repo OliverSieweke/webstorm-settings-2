@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>64</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -207,6 +207,14 @@
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
           <Count>85</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Changelist...">
@@ -454,7 +462,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '201 on successful save'">
