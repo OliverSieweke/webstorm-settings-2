@@ -553,6 +553,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'develop'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'develop'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'docs:build'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
