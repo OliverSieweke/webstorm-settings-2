@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'⌥⇧W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -334,6 +342,14 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open 'Check all default plugins are used and needed.' In Browser">
+        <Item>
+          <IdeaActionID>tasks.open.in.browser</IdeaActionID>
+          <ShortCut>'⌥⇧B'</ShortCut>
+          <Description>Open 'Check all default plugins are used and needed.' In Browser</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
