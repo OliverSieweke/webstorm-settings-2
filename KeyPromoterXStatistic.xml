@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -590,7 +590,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>137</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'docs:build'">
