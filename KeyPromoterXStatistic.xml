@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -598,7 +598,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>171</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'docs:build'">
