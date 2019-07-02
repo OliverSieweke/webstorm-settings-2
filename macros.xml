@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
@@ -26,6 +25,21 @@
       <action id="EditorPreviousWord" />
       <action id="EditorRight" />
     </macro>
+    <macro name="ho">
+      <typing text-keycode="72:0;65:0;76:0;76:0;79:0;59:0;32:0;77:0;89:0;32:0;70:0;73:0;82:0;69:0;78:0;68:0">hallo;&amp;#x20;my&amp;#x20;firend</typing>
+      <action id="MoveLineUp" />
+      <action id="EditorCodeBlockEnd" />
+      <action id="EditorCodeBlockStart" />
+      <action id="EditorCodeBlockEnd" />
+      <shortuct text="meta CLOSE_BRACKET" />
+      <shortuct text="shift meta CLOSE_BRACKET" />
+      <shortuct text="shift meta OPEN_BRACKET" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <typing text-keycode="32:0;68:0;68:0">&amp;#x20;dd</typing>
+    </macro>
   </component>
 </application>
-
