@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>275</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>371</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -510,7 +510,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -598,7 +598,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>242</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'docs:build'">
