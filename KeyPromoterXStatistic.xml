@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>287</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>385</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -598,7 +598,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>246</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'docs:build'">
