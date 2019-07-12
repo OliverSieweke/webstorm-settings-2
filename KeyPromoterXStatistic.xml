@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>381</Count>
+          <Count>385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -598,7 +598,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>245</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'docs:build'">
