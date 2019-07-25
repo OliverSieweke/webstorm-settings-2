@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="   Flatten View">
+        <Item>
+          <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
+          <ShortCut>'⌃F'</ShortCut>
+          <Description>Flatten View</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Actual Size">
         <Item>
           <IdeaActionID>Graph.ActualSize</IdeaActionID>
@@ -345,6 +353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Modules">
+        <Item>
+          <IdeaActionID>TodoViewGroupByShowModules</IdeaActionID>
+          <ShortCut>'⌃M'</ShortCut>
+          <Description>Modules</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move down">
         <Item>
           <IdeaActionID>Arrangement.Rule.Group.Condition.Move.Down</IdeaActionID>
@@ -390,7 +406,15 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'⌥⇧N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>11</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByShowPackages</IdeaActionID>
+          <ShortCut>'⌃P'</ShortCut>
+          <Description>Packages</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter...">
