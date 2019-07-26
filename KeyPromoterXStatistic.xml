@@ -1022,7 +1022,7 @@
           <IdeaActionID>Unwrap</IdeaActionID>
           <ShortCut>'⇧⌘⌦'</ShortCut>
           <Description>Unwrap/Remove...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
