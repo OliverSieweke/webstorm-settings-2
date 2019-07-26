@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="todo" value="// [$DATE$ | $USER$] TODO: $COMMENT$" description="Inserts TODO comment" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
