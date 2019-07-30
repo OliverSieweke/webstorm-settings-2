@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>465</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -294,6 +294,14 @@
           <IdeaActionID>IntroduceField</IdeaActionID>
           <ShortCut>'⌥⌘F'</ShortCut>
           <Description>Field...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Previous / Move to Previous Occurrence">
+        <Item>
+          <IdeaActionID>FindPrevious</IdeaActionID>
+          <ShortCut>'⇧⌘G'</ShortCut>
+          <Description>Find Previous / Move to Previous Occurrence</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
