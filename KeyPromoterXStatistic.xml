@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Modules">
         <Item>
           <IdeaActionID>TodoViewGroupByShowModules</IdeaActionID>
@@ -439,6 +447,14 @@
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Method">
+        <Item>
+          <IdeaActionID>MethodUp</IdeaActionID>
+          <ShortCut>'⌃↑'</ShortCut>
+          <Description>Previous Method</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">

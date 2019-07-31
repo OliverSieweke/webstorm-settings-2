@@ -1,9 +1,7 @@
 <keymap version="1" name="Default (Oli)" parent="Mac OS X 10.5+">
-  <action id="ActivateGraphQLToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta 2" />
-  </action>
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
