@@ -6,6 +6,11 @@
           <option name="uniqueTypeCount" value="1" />
         </Settings>
       </JavaScript.js.chain.hints>
+      <TypeScript.ts.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="1" />
+        </Settings>
+      </TypeScript.ts.chain.hints>
     </settingsMapElement>
   </component>
 </application>
