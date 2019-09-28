@@ -1,15 +1,34 @@
 <templateSet group="JavaScript">
-  <template name="td" value="// [$DATE$ | Oli] TODO: $COMMENT$" description="Inserts TODO comment" toReformat="false" toShortenFQNames="true">
+  <template name="td" value="// [$DATE$ | Oli] TODO: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="todo" value="// [$DATE$ | Oli] TODO: $COMMENT$" description="Inserts TODO comment" toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="// [$DATE$ | Oli] TODO: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fix" value="// [$DATE$ | Oli] FIXME: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="// [$DATE$ | Oli] FIXME: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="th" value="// [$DATE$ | Oli] THINK: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
