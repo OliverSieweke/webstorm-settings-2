@@ -47,6 +47,11 @@
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
   <action id="ProjectViewChangeView" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
   <action id="SelectIn" />
   <action id="ShowErrorDescription" />
   <action id="ShowUmlDiagramPopup">
