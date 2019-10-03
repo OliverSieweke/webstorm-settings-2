@@ -30,15 +30,33 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="EditorContextInfo">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift meta f2" />
   </action>
   <action id="JavaScriptIntroduceDestructuringVariables">
     <keyboard-shortcut first-keystroke="meta alt comma" />
@@ -53,15 +71,25 @@
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="SelectIn" />
-  <action id="ShowErrorDescription" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ShowUmlDiagramPopup">
     <keyboard-shortcut first-keystroke="meta alt u" />
     <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
+  <action id="Stop" />
+  <action id="StopBackgroundProcesses" />
   <action id="TemplateProjectProperties">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
