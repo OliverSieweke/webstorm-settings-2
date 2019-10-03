@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
   <action id="JavaScriptIntroduceDestructuringVariables">
     <keyboard-shortcut first-keystroke="meta alt comma" />
   </action>
@@ -45,6 +48,7 @@
   </action>
   <action id="ProjectViewChangeView" />
   <action id="SelectIn" />
+  <action id="ShowErrorDescription" />
   <action id="ShowUmlDiagramPopup">
     <keyboard-shortcut first-keystroke="meta alt u" />
     <keyboard-shortcut first-keystroke="shift meta 3" />
