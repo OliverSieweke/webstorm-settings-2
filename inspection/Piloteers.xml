@@ -74,7 +74,7 @@
   <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSAssignmentUsedAsCondition" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="JSCheckFunctionSignatures" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myCheckGuessedTypes" value="true" />
   </inspection_tool>
   <inspection_tool class="JSClosureCompilerSyntax" enabled="false" level="WARNING" enabled_by_default="false" />
