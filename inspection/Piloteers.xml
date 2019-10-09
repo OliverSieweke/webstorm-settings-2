@@ -78,6 +78,7 @@
     <option name="myCheckGuessedTypes" value="true" />
   </inspection_tool>
   <inspection_tool class="JSClosureCompilerSyntax" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSCommentMatchesSignature" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSComparisonWithNaN" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSConsecutiveCommasInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSConstructorReturnsPrimitive" enabled="true" level="ERROR" enabled_by_default="true" />
