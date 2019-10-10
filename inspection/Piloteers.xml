@@ -127,6 +127,7 @@
     <option name="importPopup" value="true" />
   </inspection_tool>
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="KarmaConfigFile" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopStatementThatDoesntLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="ERROR" enabled_by_default="false" />
