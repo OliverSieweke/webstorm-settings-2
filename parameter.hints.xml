@@ -1,14 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript">
-        <added pattern="Number.toString(radix)" />
-      </blacklist>
+      <blacklist language="TypeScript" />
       <blacklist language="Angular HTML Template" />
-      <blacklist language="JavaScript">
-        <added pattern="*.then(onfulfilled, onrejected)" />
-        <added pattern="*.catch(onrejected)" />
-      </blacklist>
+      <blacklist language="JavaScript" />
     </blacklists>
   </component>
 </application>
