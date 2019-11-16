@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
   <action id="ActivateInspectionResultsToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateServicesToolWindow">
@@ -22,7 +22,7 @@
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="ActivateTypeScriptToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta 7" />
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
