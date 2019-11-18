@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'typescript-playground'" />
-    <option name="defaultScopeName" value="Project 'typescript-playground'" />
+    <option name="customScope" value="Project 'ecometrix-models'" />
+    <option name="defaultScopeName" value="Project 'ecometrix-models'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'typescript-playground'" />
+    <option name="SEARCH_SCOPE" value="Project 'ecometrix-models'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
