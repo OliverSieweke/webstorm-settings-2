@@ -13,28 +13,49 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="fix" value="// [$DATE$ | Oli] FIXME: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+  <template name="fx" value="// [$DATE$ | Oli] FIXME: " description="Inserts FIXME comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="fixme" value="// [$DATE$ | Oli] FIXME: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+  <template name="fixme" value="// [$DATE$ | Oli] FIXME: " description="Inserts FIXME comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="th" value="// [$DATE$ | Oli] THINK: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+  <template name="th" value="// [$DATE$ | Oli] THINK: " description="Inserts THINK comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="think" value="// [$DATE$ | Oli] THINK: " description="Inserts TODO comment" toReformat="true" toShortenFQNames="true">
+  <template name="think" value="// [$DATE$ | Oli] THINK: " description="Inserts THINK comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tdl" value="// [$DATE$ | Oli] TODO (LONG-TERM): " description="Inserts TODO (LONG-TERM) comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="thl" value="// [$DATE$ | Oli] THINK (LONG-TERM): " description="Inserts THINK (LONG-TERM) comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fxl" value="// [$DATE$ | Oli] FIXME: " description="Inserts FIXME (LONG-TERM) comment" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="ECMAScript6" value="true" />
