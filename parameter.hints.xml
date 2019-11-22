@@ -2,12 +2,8 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
-      <blacklist language="JavaScript">
-        <added pattern="*.then(onfulfilled, onrejected)" />
-        <added pattern="*.catch(onrejected)" />
-      </blacklist>
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
     </blacklists>
-    <option id="js.param.hints.show.names.for.all.args" value="true" />
-    <option id="js.only.show.names.for.all.args" value="true" />
   </component>
 </application>

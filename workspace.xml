@@ -1,16 +1,28 @@
 <application>
   <component name="InlayHintsSettings">
     <settingsMapElement>
-      <JavaScript.js.chain.hints>
-        <Settings>
-          <option name="uniqueTypeCount" value="1" />
-        </Settings>
-      </JavaScript.js.chain.hints>
       <TypeScript.ts.chain.hints>
         <Settings>
           <option name="uniqueTypeCount" value="1" />
         </Settings>
       </TypeScript.ts.chain.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+      <JavaScript.js.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="1" />
+        </Settings>
+      </JavaScript.js.chain.hints>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </JavaScript.js.type.hints>
     </settingsMapElement>
   </component>
 </application>
