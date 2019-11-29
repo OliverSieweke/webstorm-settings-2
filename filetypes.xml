@@ -14,6 +14,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="BackendDuration" type="TypeScript" />
       <mapping pattern="._278012389_1234567_20060202_4a.EBK" type="XML" />
       <mapping ext="fbk" type="XML" />
       <mapping ext="prf" type="XML" />
