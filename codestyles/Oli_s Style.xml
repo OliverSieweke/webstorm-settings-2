@@ -1043,9 +1043,6 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
-  <codeStyleSettings language="EditorConfig">
-    <option name="SPACE_AFTER_COMMA" value="false" />
-  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="WRAP_ON_TYPING" value="0" />
