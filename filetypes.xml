@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="webpack.package.config.js" type="Flow" />
       <mapping ext="map" type="JSON" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="special cases" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="AsvSpecializations_E_de.json" type="PLAIN_TEXT" />
