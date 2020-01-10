@@ -28,5 +28,6 @@
     <mask>*client.js</mask>
     <mask>*.pug</mask>
     <mask>.d.ts</mask>
+    <mask>.ts</mask>
   </component>
 </application>
