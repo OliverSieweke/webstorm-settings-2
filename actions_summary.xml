@@ -10,6 +10,13 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateTerminalToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
