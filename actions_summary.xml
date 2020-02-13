@@ -17,6 +17,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="List-selectNextRow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581608052807" />
+              <option name="times" value="55" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ManageRecentProjects">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581608048214" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="WelcomeScreen.NewGroup">
           <value>
             <ActionSummary>
@@ -28,7 +44,15 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581607983367" />
+              <option name="last" value="1581608033105" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581608001351" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
