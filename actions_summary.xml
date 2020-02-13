@@ -5,8 +5,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581606010925" />
-              <option name="times" value="1" />
+              <option name="last" value="1581614303444" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -31,6 +31,14 @@
             <ActionSummary>
               <option name="last" value="1581612589001" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613888352" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -70,6 +78,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581613066524" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="List-selectNextColumn">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613959193" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -122,6 +138,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="NavBar-cancel">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613981231" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NavBar-selectLeft">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613980532" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NavBar-selectRight">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613959637" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NewElement">
           <value>
             <ActionSummary>
@@ -154,11 +194,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowNavBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581613979971" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="SplitVertically">
           <value>
             <ActionSummary>
               <option name="last" value="1581612914420" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewNavigationBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581614036750" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewStatusBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581614087121" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +245,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581613107596" />
-              <option name="times" value="10" />
+              <option name="last" value="1581613885346" />
+              <option name="times" value="11" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581614302233" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
