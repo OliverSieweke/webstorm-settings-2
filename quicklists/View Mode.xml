@@ -1,0 +1,5 @@
+<list display="View Mode">
+  <action id="ToggleDistractionFreeMode" />
+  <action id="TogglePresentationMode" />
+  <action id="ToggleFullScreen" />
+</list>

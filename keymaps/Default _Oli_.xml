@@ -75,6 +75,9 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="QuickList.View Mode">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
