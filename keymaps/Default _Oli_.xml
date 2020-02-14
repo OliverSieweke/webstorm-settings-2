@@ -101,7 +101,7 @@
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
