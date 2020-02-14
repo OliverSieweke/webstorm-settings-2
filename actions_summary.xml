@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693919927" />
-              <option name="times" value="866" />
+              <option name="last" value="1581695768426" />
+              <option name="times" value="867" />
             </ActionSummary>
           </value>
         </entry>
@@ -442,6 +442,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Images.SetBackgroundImage">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581695584185" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Javascript.Linters.EsLint.Fix">
           <value>
             <ActionSummary>
@@ -645,8 +653,8 @@
         <entry key="QuickList.View Mode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581666458411" />
-              <option name="times" value="20" />
+              <option name="last" value="1581695536023" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -1013,8 +1021,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581691271710" />
-              <option name="times" value="43" />
+              <option name="last" value="1581695541119" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
