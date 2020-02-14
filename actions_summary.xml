@@ -5,8 +5,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669315358" />
-              <option name="times" value="10" />
+              <option name="last" value="1581672147432" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +37,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669093758" />
-              <option name="times" value="14" />
+              <option name="last" value="1581672287843" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,16 +101,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671917181" />
-              <option name="times" value="313" />
+              <option name="last" value="1581672496918" />
+              <option name="times" value="319" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671629052" />
-              <option name="times" value="25" />
+              <option name="last" value="1581672284127" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672026459" />
-              <option name="times" value="11" />
+              <option name="last" value="1581672152173" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,16 +141,16 @@
         <entry key="EditorDeleteLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671281322" />
-              <option name="times" value="15" />
+              <option name="last" value="1581672313813" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671674034" />
-              <option name="times" value="131" />
+              <option name="last" value="1581672250004" />
+              <option name="times" value="132" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +173,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672062889" />
-              <option name="times" value="123" />
+              <option name="last" value="1581672244405" />
+              <option name="times" value="131" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671889242" />
-              <option name="times" value="231" />
+              <option name="last" value="1581672458566" />
+              <option name="times" value="233" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671889565" />
-              <option name="times" value="334" />
+              <option name="last" value="1581672242327" />
+              <option name="times" value="348" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,16 +285,24 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672063401" />
-              <option name="times" value="84" />
+              <option name="last" value="1581672314262" />
+              <option name="times" value="91" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581672304134" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581668102089" />
-              <option name="times" value="1" />
+              <option name="last" value="1581672152941" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +333,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672008574" />
-              <option name="times" value="32" />
+              <option name="last" value="1581672424103" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +565,8 @@
         <entry key="ShowErrorDescription">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671511470" />
-              <option name="times" value="8" />
+              <option name="last" value="1581672253137" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,16 +725,16 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581626947271" />
-              <option name="times" value="1" />
+              <option name="last" value="1581672308954" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581668110064" />
-              <option name="times" value="1" />
+              <option name="last" value="1581672156118" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -789,8 +797,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671971996" />
-              <option name="times" value="30" />
+              <option name="last" value="1581672290483" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
