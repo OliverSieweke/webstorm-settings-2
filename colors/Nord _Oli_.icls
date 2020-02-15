@@ -4,11 +4,10 @@
     <property name="created">2019-04-17T10:37:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-02-15T16:40:28</property>
+    <property name="modified">2020-02-15T18:03:05</property>
     <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
@@ -46,7 +45,7 @@
     <option name="INDENT_GUIDE" value="4c566a" />
     <option name="INFORMATION_HINT" value="434c5e" />
     <option name="LINE_NUMBERS_COLOR" value="4c566a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="8399af" />
+    <option name="METHOD_SEPARATORS_COLOR" value="4c566a" />
     <option name="MODIFIED_LINES_COLOR" value="ebcb8b" />
     <option name="NOTIFICATION_BACKGROUND" value="d8dee9" />
     <option name="QUESTION_HINT" value="434c5e" />
@@ -54,8 +53,11 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_TEARLINE_COLOR" value="b48ead" />
-    <option name="SELECTION_BACKGROUND" value="434c5e" />
+    <option name="SELECTION_BACKGROUND" value="4c566a" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="4c566a" />
+    <option name="SEPARATOR_BELOW_COLOR" value="4c566a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="4c566a" />
     <option name="TOOLTIP" value="434c5e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8fbcbb" />
@@ -164,20 +166,20 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="81a1c1" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="4c566a" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="b48ead" />
-        <option name="BACKGROUND" value="434c5e" />
+        <option name="FOREGROUND" value="d8dee9" />
+        <option name="BACKGROUND" value="b48ead" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="434c5e" />
+        <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -189,7 +191,7 @@
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
@@ -1002,7 +1004,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b48ead" />
+        <option name="EFFECT_COLOR" value="88c0d0" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1684,6 +1686,12 @@
         <option name="EFFECT_COLOR" value="81c2c3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value />
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value />
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER">
       <value>
