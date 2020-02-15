@@ -34,6 +34,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateDebugToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777806499" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateFavoritesToolWindow">
           <value>
             <ActionSummary>
@@ -45,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671973033" />
-              <option name="times" value="39" />
+              <option name="last" value="1581777836520" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -74,11 +82,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="AnalyzePluginStartupPerformance">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778616674" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
               <option name="last" value="1581693698435" />
               <option name="times" value="98" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CaptureCPUUsageData">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778643588" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -130,6 +154,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ContextHelp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778789221" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ConvertToMacLineSeparators">
           <value>
             <ActionSummary>
@@ -141,16 +173,40 @@
         <entry key="Debug">
           <value>
             <ActionSummary>
-              <option name="last" value="1581685424966" />
-              <option name="times" value="2" />
+              <option name="last" value="1581776837336" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="DebugClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776824288" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditCustomProperties">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778580237" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditCustomVmOptions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778593920" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695768426" />
-              <option name="times" value="867" />
+              <option name="last" value="1581778746324" />
+              <option name="times" value="902" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,16 +325,16 @@
         <entry key="EditorLineEndWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679046799" />
-              <option name="times" value="9" />
+              <option name="last" value="1581777805231" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581613074036" />
-              <option name="times" value="2" />
+              <option name="last" value="1581777804806" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +373,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693938554" />
-              <option name="times" value="1189" />
+              <option name="last" value="1581776369198" />
+              <option name="times" value="1190" />
             </ActionSummary>
           </value>
         </entry>
@@ -442,6 +498,38 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Help.JetBrainsTV">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778466712" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Help.KeymapReference">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778456944" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="HelpTopics">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778450485" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="HideAllWindows">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777685392" />
+              <option name="times" value="14" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Images.SetBackgroundImage">
           <value>
             <ActionSummary>
@@ -486,6 +574,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581684504502" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="LogDebugConfigure">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778631747" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -573,16 +669,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581684536423" />
-              <option name="times" value="6" />
+              <option name="last" value="1581777552272" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581684538052" />
-              <option name="times" value="4" />
+              <option name="last" value="1581777553264" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -618,11 +714,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Performance.ActivityMonitor">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778603734" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="PinToolwindowTab">
           <value>
             <ActionSummary>
               <option name="last" value="1581627409494" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ProductivityGuide">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778475225" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -637,24 +749,24 @@
         <entry key="QuickImplementations">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693317165" />
-              <option name="times" value="2" />
+              <option name="last" value="1581776523161" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="QuickJavaDoc">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693426446" />
-              <option name="times" value="2" />
+              <option name="last" value="1581776549406" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="QuickList.View Mode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695536023" />
-              <option name="times" value="21" />
+              <option name="last" value="1581776758090" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -682,19 +794,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ResizeToolWindowDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777808367" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ResizeToolWindowLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581667537701" />
-              <option name="times" value="16" />
+              <option name="last" value="1581777801982" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ResizeToolWindowRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581667536861" />
-              <option name="times" value="12" />
+              <option name="last" value="1581777801471" />
+              <option name="times" value="14" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ResizeToolWindowUp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777807923" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -706,10 +834,34 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Run">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776834158" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="RunAnything">
           <value>
             <ActionSummary>
               <option name="last" value="1581626797625" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="RunConfiguration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776827768" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="RunToCursor">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777569614" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -762,6 +914,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowLog">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778557924" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ShowNavBar">
           <value>
             <ActionSummary>
@@ -778,11 +938,43 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowTips">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778401717" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="SplitVertically">
           <value>
             <ActionSummary>
-              <option name="last" value="1581667813601" />
-              <option name="times" value="2" />
+              <option name="last" value="1581777567887" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="StepInto">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776843271" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="TemplateProjectProperties">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776918434" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Terminal.OpenInTerminal">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776600998" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,24 +989,24 @@
         <entry key="ToggleDistractionFreeMode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679098261" />
-              <option name="times" value="99" />
+              <option name="last" value="1581777560770" />
+              <option name="times" value="103" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ToggleFullScreen">
           <value>
             <ActionSummary>
-              <option name="last" value="1581628377766" />
-              <option name="times" value="2" />
+              <option name="last" value="1581777497875" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581685420665" />
-              <option name="times" value="2" />
+              <option name="last" value="1581776836065" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +1037,8 @@
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1581628365570" />
-              <option name="times" value="15" />
+              <option name="last" value="1581777842819" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -855,6 +1047,22 @@
             <ActionSummary>
               <option name="last" value="1581628860727" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.VcsClone">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777131377" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewMembersInNavigationBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581777367760" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +1077,8 @@
         <entry key="ViewStatusBar">
           <value>
             <ActionSummary>
-              <option name="last" value="1581614087121" />
-              <option name="times" value="2" />
+              <option name="last" value="1581777333613" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -886,6 +1094,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581671594890" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.codeInsight.documentation.DockablePopupManager$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776549946" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -994,6 +1210,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ui.customization.CustomizableActionsPanel$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776470963" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ui.customization.CustomizableActionsPanel$AddActionActionTreeSelectionAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776511622" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ui.customization.CustomizableActionsPanel$RemoveAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776584657" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.lang.typescript.intentions.TypeScriptAddImportStatementFix$2">
           <value>
             <ActionSummary>
@@ -1007,6 +1247,14 @@
             <ActionSummary>
               <option name="last" value="1581627059327" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581776510721" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,7 +1381,15 @@
         <entry key="editRunConfigurations">
           <value>
             <ActionSummary>
-              <option name="last" value="1581667378320" />
+              <option name="last" value="1581776606984" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="performancePlugin.ShowMemoryDialogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581778572124" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
