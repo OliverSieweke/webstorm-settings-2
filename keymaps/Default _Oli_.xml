@@ -60,6 +60,9 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift meta f2" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
   <action id="JavaScriptIntroduceDestructuringVariables">
     <keyboard-shortcut first-keystroke="meta alt comma" />
   </action>

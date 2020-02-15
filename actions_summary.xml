@@ -157,8 +157,8 @@
         <entry key="ContextHelp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581778833871" />
-              <option name="times" value="6" />
+              <option name="last" value="1581778995945" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581778746324" />
-              <option name="times" value="902" />
+              <option name="last" value="1581779448995" />
+              <option name="times" value="919" />
             </ActionSummary>
           </value>
         </entry>
@@ -482,6 +482,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581779228432" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
@@ -525,8 +533,8 @@
         <entry key="HideAllWindows">
           <value>
             <ActionSummary>
-              <option name="last" value="1581777685392" />
-              <option name="times" value="14" />
+              <option name="last" value="1581779511269" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -650,6 +658,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="NavBar-selectEnd">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581780005369" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NavBar-selectHome">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581780003925" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NavBar-selectLeft">
           <value>
             <ActionSummary>
@@ -765,8 +789,8 @@
         <entry key="QuickList.View Mode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581776758090" />
-              <option name="times" value="22" />
+              <option name="last" value="1581779528794" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +949,8 @@
         <entry key="ShowNavBar">
           <value>
             <ActionSummary>
-              <option name="last" value="1581629562491" />
-              <option name="times" value="7" />
+              <option name="last" value="1581780002038" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -986,19 +1010,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ToggleBookmark1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581779526798" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleDistractionFreeMode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581777560770" />
-              <option name="times" value="103" />
+              <option name="last" value="1581779353492" />
+              <option name="times" value="107" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ToggleFullScreen">
           <value>
             <ActionSummary>
-              <option name="last" value="1581777497875" />
-              <option name="times" value="4" />
+              <option name="last" value="1581779357148" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -1058,11 +1090,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ViewInplaceComments">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581779807878" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ViewMembersInNavigationBar">
           <value>
             <ActionSummary>
-              <option name="last" value="1581777367760" />
-              <option name="times" value="4" />
+              <option name="last" value="1581780283669" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -1079,6 +1119,22 @@
             <ActionSummary>
               <option name="last" value="1581777333613" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewToolBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581780200318" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewToolButtons">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581780140285" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1261,24 +1317,24 @@
         <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1581666489145" />
-              <option name="times" value="15" />
+              <option name="last" value="1581779384945" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$16">
           <value>
             <ActionSummary>
-              <option name="last" value="1581666495787" />
-              <option name="times" value="4" />
+              <option name="last" value="1581779394094" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695541119" />
-              <option name="times" value="48" />
+              <option name="last" value="1581779533669" />
+              <option name="times" value="49" />
             </ActionSummary>
           </value>
         </entry>
@@ -1317,8 +1373,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581630983826" />
-              <option name="times" value="14" />
+              <option name="last" value="1581779410721" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -1333,8 +1389,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$UpButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581630990891" />
-              <option name="times" value="8" />
+              <option name="last" value="1581779419835" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
