@@ -325,8 +325,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581855028546" />
-              <option name="times" value="821" />
+              <option name="last" value="1581861434324" />
+              <option name="times" value="822" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581860262590" />
-              <option name="times" value="175" />
+              <option name="last" value="1581861290245" />
+              <option name="times" value="176" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581857374904" />
-              <option name="times" value="14" />
+              <option name="last" value="1581861402169" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="JumpToColorsAndFonts">
           <value>
             <ActionSummary>
-              <option name="last" value="1581854734392" />
-              <option name="times" value="6" />
+              <option name="last" value="1581861405116" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1373,8 +1373,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581857786536" />
-              <option name="times" value="5" />
+              <option name="last" value="1581861146485" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1477,8 +1477,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581860570634" />
-              <option name="times" value="89" />
+              <option name="last" value="1581861405063" />
+              <option name="times" value="91" />
             </ActionSummary>
           </value>
         </entry>
@@ -1565,8 +1565,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856596538" />
-              <option name="times" value="38" />
+              <option name="last" value="1581861410451" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>

@@ -3,7 +3,7 @@
     <property name="created">2019-04-17T10:37:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-02-16T13:11:35</property>
+    <property name="modified">2020-02-16T14:57:26</property>
     <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <colors>
@@ -1133,6 +1133,11 @@
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="a3be8c" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_BACKGROUND">
