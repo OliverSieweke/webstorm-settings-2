@@ -8,14 +8,17 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialIcons" value="false" />
     <option name="customSidebarHeight" value="19" />
+    <option name="treeFontSize" value="14" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="4" />
     <option name="rightTreeIndent" value="12" />
