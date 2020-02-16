@@ -3,7 +3,7 @@
     <property name="created">2019-04-17T10:37:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-02-16T09:49:22</property>
+    <property name="modified">2020-02-16T11:27:56</property>
     <property name="originalScheme">Nord copy</property>
   </metaInfo>
   <colors>
@@ -265,7 +265,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e1826" />
+        <option name="FOREGROUND" value="212121" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -513,6 +513,17 @@
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="4c566a" />
+        <option name="EFFECT_COLOR" value="d08770" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="EFFECT_COLOR" value="bf616a" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -804,7 +815,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4c566a" />
+        <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1432,9 +1443,7 @@
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="d08770" />
-      </value>
+      <value />
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
