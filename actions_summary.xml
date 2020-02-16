@@ -221,8 +221,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856247429" />
-              <option name="times" value="1329" />
+              <option name="last" value="1581860777396" />
+              <option name="times" value="1352" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,16 +277,16 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581852292119" />
-              <option name="times" value="483" />
+              <option name="last" value="1581860781327" />
+              <option name="times" value="504" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorDownWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581781350761" />
-              <option name="times" value="38" />
+              <option name="last" value="1581860776060" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581855093179" />
-              <option name="times" value="172" />
+              <option name="last" value="1581860262590" />
+              <option name="times" value="175" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581855029507" />
-              <option name="times" value="1332" />
+              <option name="last" value="1581859908737" />
+              <option name="times" value="1335" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +853,8 @@
         <entry key="QuickList.View Mode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581857436686" />
-              <option name="times" value="36" />
+              <option name="last" value="1581860561403" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856749192" />
-              <option name="times" value="31" />
+              <option name="last" value="1581860568930" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="TemplateProjectProperties">
           <value>
             <ActionSummary>
-              <option name="last" value="1581855886094" />
-              <option name="times" value="4" />
+              <option name="last" value="1581860086956" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1141,8 +1141,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581851987422" />
-              <option name="times" value="31" />
+              <option name="last" value="1581860633831" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -1373,8 +1373,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581612211474" />
-              <option name="times" value="4" />
+              <option name="last" value="1581857786536" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1426,6 +1426,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable$MyAddAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581859943750" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.lang.typescript.intentions.TypeScriptAddImportStatementFix$2">
           <value>
             <ActionSummary>
@@ -1469,16 +1477,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581857377528" />
-              <option name="times" value="87" />
+              <option name="last" value="1581860570634" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856702216" />
-              <option name="times" value="11" />
+              <option name="last" value="1581860566255" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -1506,19 +1514,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581859942107" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581779410721" />
-              <option name="times" value="16" />
+              <option name="last" value="1581859923317" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581630982204" />
-              <option name="times" value="4" />
+              <option name="last" value="1581860081299" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -1565,8 +1581,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581848352948" />
-              <option name="times" value="18" />
+              <option name="last" value="1581860635106" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
