@@ -3,6 +3,7 @@
     <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -20,7 +21,7 @@
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="4" />
     <option name="rightTreeIndent" value="12" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="30" />
     <option name="accentColor" value="a3be8c" />
     <option name="secondAccentColor" value="81a1c1" />
