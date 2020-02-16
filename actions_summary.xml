@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581840439531" />
-              <option name="times" value="44" />
+              <option name="last" value="1581856661109" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856222238" />
-              <option name="times" value="13" />
+              <option name="last" value="1581856714924" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581854732532" />
-              <option name="times" value="13" />
+              <option name="last" value="1581857374904" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +853,8 @@
         <entry key="QuickList.View Mode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856174008" />
-              <option name="times" value="33" />
+              <option name="last" value="1581857436686" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856285735" />
-              <option name="times" value="21" />
+              <option name="last" value="1581856749192" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -1021,8 +1021,8 @@
         <entry key="ShowNavBar">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856188595" />
-              <option name="times" value="12" />
+              <option name="last" value="1581856706864" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -1469,16 +1469,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856287315" />
-              <option name="times" value="82" />
+              <option name="last" value="1581857377528" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581855864509" />
-              <option name="times" value="8" />
+              <option name="last" value="1581856702216" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -1549,8 +1549,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581856187602" />
-              <option name="times" value="35" />
+              <option name="last" value="1581856596538" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
