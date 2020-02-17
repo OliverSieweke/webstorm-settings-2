@@ -3,7 +3,6 @@
     <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -17,6 +16,7 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialIcons" value="false" />
+    <option name="useColoredDirectories" value="false" />
     <option name="customSidebarHeight" value="19" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="4" />
