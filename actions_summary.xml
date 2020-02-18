@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048430110" />
-              <option name="times" value="5" />
+              <option name="last" value="1582049112073" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +173,8 @@
         <entry key="ConfigureIcs">
           <value>
             <ActionSummary>
-              <option name="last" value="1581612589001" />
-              <option name="times" value="1" />
+              <option name="last" value="1582049036383" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="CreateEditorConfigFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048440222" />
-              <option name="times" value="5" />
+              <option name="last" value="1582049123636" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048652220" />
-              <option name="times" value="3378" />
+              <option name="last" value="1582048896323" />
+              <option name="times" value="3379" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,16 +829,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048539745" />
-              <option name="times" value="31" />
+              <option name="last" value="1582049114639" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewElementSamePlace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048437989" />
-              <option name="times" value="7" />
+              <option name="last" value="1582049121796" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -1541,8 +1541,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048675472" />
-              <option name="times" value="10" />
+              <option name="last" value="1582048770301" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -1669,8 +1669,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047473398" />
-              <option name="times" value="99" />
+              <option name="last" value="1582048681383" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -1717,8 +1717,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581859923317" />
-              <option name="times" value="20" />
+              <option name="last" value="1582049196960" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
