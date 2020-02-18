@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581963067441" />
-              <option name="times" value="497" />
+              <option name="last" value="1582048538374" />
+              <option name="times" value="499" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048462526" />
-              <option name="times" value="3373" />
+              <option name="last" value="1582048652220" />
+              <option name="times" value="3378" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047871234" />
-              <option name="times" value="815" />
+              <option name="last" value="1582048537547" />
+              <option name="times" value="816" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="ExpandLiveTemplateByTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581932404885" />
-              <option name="times" value="3" />
+              <option name="last" value="1582048528678" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048433593" />
-              <option name="times" value="28" />
+              <option name="last" value="1582048539745" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,16 +853,16 @@
         <entry key="NewHtmlFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025232390" />
-              <option name="times" value="1" />
+              <option name="last" value="1582048541288" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewScratchFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047334069" />
-              <option name="times" value="1" />
+              <option name="last" value="1582048478246" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -893,8 +893,8 @@
         <entry key="NextTemplateVariable">
           <value>
             <ActionSummary>
-              <option name="last" value="1581963078417" />
-              <option name="times" value="16" />
+              <option name="last" value="1582048547093" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -1541,8 +1541,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581861778482" />
-              <option name="times" value="9" />
+              <option name="last" value="1582048675472" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -1573,8 +1573,8 @@
         <entry key="com.intellij.ide.fileTemplates.actions.CreateFromTemplateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047479147" />
-              <option name="times" value="1" />
+              <option name="last" value="1582048501101" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1677,8 +1677,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048309284" />
-              <option name="times" value="16" />
+              <option name="last" value="1582048535763" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
