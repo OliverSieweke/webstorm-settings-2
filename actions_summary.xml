@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025273005" />
-              <option name="times" value="3" />
+              <option name="last" value="1582048430110" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="CreateEditorConfigFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047345603" />
-              <option name="times" value="4" />
+              <option name="last" value="1582048440222" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047895824" />
-              <option name="times" value="3369" />
+              <option name="last" value="1582048462526" />
+              <option name="times" value="3373" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048099639" />
-              <option name="times" value="560" />
+              <option name="last" value="1582048376756" />
+              <option name="times" value="570" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,16 +829,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047474203" />
-              <option name="times" value="27" />
+              <option name="last" value="1582048433593" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewElementSamePlace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047342896" />
-              <option name="times" value="6" />
+              <option name="last" value="1582048437989" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1245,8 +1245,8 @@
         <entry key="TemplateProjectProperties">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047254983" />
-              <option name="times" value="6" />
+              <option name="last" value="1582048310014" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1581,16 +1581,16 @@
         <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047178977" />
-              <option name="times" value="2" />
+              <option name="last" value="1582048304503" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047263505" />
-              <option name="times" value="4" />
+              <option name="last" value="1582048457731" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -1677,8 +1677,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581962495328" />
-              <option name="times" value="15" />
+              <option name="last" value="1582048309284" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
