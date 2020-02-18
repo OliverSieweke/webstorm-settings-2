@@ -245,8 +245,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048896323" />
-              <option name="times" value="3379" />
+              <option name="last" value="1582049723524" />
+              <option name="times" value="3425" />
             </ActionSummary>
           </value>
         </entry>
@@ -1541,8 +1541,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049494607" />
-              <option name="times" value="12" />
+              <option name="last" value="1582049624346" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -1591,6 +1591,14 @@
             <ActionSummary>
               <option name="last" value="1582048457731" />
               <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582049729361" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
