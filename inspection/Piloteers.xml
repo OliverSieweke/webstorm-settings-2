@@ -42,6 +42,7 @@
   <inspection_tool class="ES6MissingAwait" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ModulesDependencies" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="ES6PossiblyAsyncFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="ES6PreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6ShorthandObjectProperty" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6UnusedImports" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EditorConfigKeyCorrectness" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -174,9 +175,6 @@
   </inspection_tool>
   <inspection_tool class="UnnecessaryReturnJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
-  </inspection_tool>
   <inspection_tool class="W3CssValidation" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="myCssVersion" value="css3svg" />
     <option name="myIgnoreVendorSpecificProperties" value="true" />
