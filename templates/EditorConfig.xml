@@ -1,5 +1,5 @@
 <templateSet group="EditorConfig">
-  <template name="edc" value="root = true&#10;&#10;[*]&#10;charset = utf-8&#10;end_of_line = lf&#10;indent_size = 4&#10;indent_style = space&#10;insert_final_newline = true&#10;max_line_length = 120&#10;tab_width = 4" toReformat="false" toShortenFQNames="true">
+  <template name="edc" value="root = true&#10;&#10;[*]&#10;charset = utf-8&#10;end_of_line = lf&#10;indent_size = 4&#10;indent_style = space&#10;insert_final_newline = true&#10;max_line_length = 120&#10;tab_width = 4" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="ECMAScript6" value="false" />
