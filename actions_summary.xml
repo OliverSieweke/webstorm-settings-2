@@ -45,8 +45,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101374045" />
-              <option name="times" value="5" />
+              <option name="last" value="1582101672929" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="ActivateRunToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581840627940" />
-              <option name="times" value="6" />
+              <option name="last" value="1582101622381" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,16 +93,16 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581932993191" />
-              <option name="times" value="33" />
+              <option name="last" value="1582101640044" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivatenpmToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101423749" />
-              <option name="times" value="25" />
+              <option name="last" value="1582101456993" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -234,6 +234,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Diff.ShowDiff">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582101473198" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditCustomProperties">
           <value>
             <ActionSummary>
@@ -261,8 +269,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582094957787" />
-              <option name="times" value="3593" />
+              <option name="last" value="1582101697178" />
+              <option name="times" value="3594" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +309,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582095145300" />
-              <option name="times" value="182" />
+              <option name="last" value="1582101848826" />
+              <option name="times" value="183" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +461,8 @@
         <entry key="EditorRightWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581962677597" />
-              <option name="times" value="876" />
+              <option name="last" value="1582101848173" />
+              <option name="times" value="881" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +549,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958827289" />
-              <option name="times" value="21" />
+              <option name="last" value="1582101849400" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -1522,6 +1530,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyNextChangeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582101601767" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582101616529" />
+              <option name="times" value="194" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyPrevDifferenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582101587223" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
@@ -1749,8 +1781,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048681383" />
-              <option name="times" value="100" />
+              <option name="last" value="1582101979732" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -1821,8 +1853,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1581958586091" />
-              <option name="times" value="114" />
+              <option name="last" value="1582101853224" />
+              <option name="times" value="117" />
             </ActionSummary>
           </value>
         </entry>
