@@ -253,8 +253,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093779286" />
-              <option name="times" value="3478" />
+              <option name="last" value="1582093902235" />
+              <option name="times" value="3480" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,16 +837,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093799189" />
-              <option name="times" value="43" />
+              <option name="last" value="1582093892233" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewElementSamePlace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093686002" />
-              <option name="times" value="9" />
+              <option name="last" value="1582093884336" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -1557,16 +1557,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049800987" />
-              <option name="times" value="15" />
+              <option name="last" value="1582093849714" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.actions.EditFileTemplatesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093748518" />
-              <option name="times" value="1" />
+              <option name="last" value="1582093896264" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
