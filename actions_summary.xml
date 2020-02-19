@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049112073" />
-              <option name="times" value="6" />
+              <option name="last" value="1582093699817" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="CreateEditorConfigFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049123636" />
-              <option name="times" value="7" />
+              <option name="last" value="1582093793887" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582055292474" />
-              <option name="times" value="3435" />
+              <option name="last" value="1582093779286" />
+              <option name="times" value="3478" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048112869" />
-              <option name="times" value="178" />
+              <option name="last" value="1582093609607" />
+              <option name="times" value="179" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048376756" />
-              <option name="times" value="570" />
+              <option name="last" value="1582093760617" />
+              <option name="times" value="572" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,16 +837,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049114639" />
-              <option name="times" value="32" />
+              <option name="last" value="1582093799189" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewElementSamePlace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582049121796" />
-              <option name="times" value="8" />
+              <option name="last" value="1582093686002" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="NewScratchFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048478246" />
-              <option name="times" value="2" />
+              <option name="last" value="1582093690869" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -1562,6 +1562,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.actions.EditFileTemplatesAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093748518" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.actions.ToggleToolbarAction">
           <value>
             <ActionSummary>
@@ -1589,24 +1597,24 @@
         <entry key="com.intellij.ide.fileTemplates.actions.CreateFromTemplateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048501101" />
-              <option name="times" value="2" />
+              <option name="last" value="1582093397851" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048304503" />
-              <option name="times" value="4" />
+              <option name="last" value="1582093709765" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582048457731" />
-              <option name="times" value="6" />
+              <option name="last" value="1582093803934" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
