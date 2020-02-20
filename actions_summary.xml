@@ -53,8 +53,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101672929" />
-              <option name="times" value="11" />
+              <option name="last" value="1582204083017" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196662778" />
-              <option name="times" value="43" />
+              <option name="last" value="1582204075748" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -1829,8 +1829,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196222497" />
-              <option name="times" value="128" />
+              <option name="last" value="1582204076379" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
