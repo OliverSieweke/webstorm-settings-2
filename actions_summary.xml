@@ -141,8 +141,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196500609" />
-              <option name="times" value="378" />
+              <option name="last" value="1582197837114" />
+              <option name="times" value="381" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196067602" />
-              <option name="times" value="54" />
+              <option name="last" value="1582197795629" />
+              <option name="times" value="55" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196435123" />
-              <option name="times" value="240" />
+              <option name="last" value="1582197824889" />
+              <option name="times" value="241" />
             </ActionSummary>
           </value>
         </entry>
@@ -1637,8 +1637,8 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195288910" />
-              <option name="times" value="108" />
+              <option name="last" value="1582197807170" />
+              <option name="times" value="114" />
             </ActionSummary>
           </value>
         </entry>
