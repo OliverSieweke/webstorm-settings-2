@@ -3,39 +3,40 @@
     <property name="created">2018-03-13T19:57:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2020-02-21T10:19:33</property>
+    <property name="modified">2020-02-21T10:22:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="49d0c5" />
-    <option name="FILESTATUS_DELETED" value="de3d3b" />
-    <option name="FILESTATUS_HIJACKED" value="2aa298" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_ADDED" value="a3be8c" />
+    <option name="FILESTATUS_DELETED" value="bf616a" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a3be8c" />
-    <option name="FILESTATUS_MERGED" value="e0af02" />
-    <option name="FILESTATUS_MODIFIED" value="6fbef6" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_SUPPRESSED" value="403f53" />
-    <option name="FILESTATUS_SWITCHED" value="6fbef6" />
-    <option name="FILESTATUS_UNKNOWN" value="4876d6" />
-    <option name="FILESTATUS_addedOutside" value="4876d6" />
-    <option name="FILESTATUS_changelistConflict" value="d6438a" />
-    <option name="FILESTATUS_modifiedOutside" value="6fbef6" />
+    <option name="FILESTATUS_MERGED" value="81a1c1" />
+    <option name="FILESTATUS_MODIFIED" value="ebcb8b" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="88c0d0" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="88c0d0" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="bf616a" />
+    <option name="FILESTATUS_addedOutside" value="a3be8c" />
+    <option name="FILESTATUS_changelistConflict" value="d08770" />
+    <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
   </colors>
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="403f53" />
-        <option name="BACKGROUND" value="fbfbfb" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="d8dee9" />
+        <option name="BACKGROUND" value="2e3440" />
+        <option name="ERROR_STRIPE_COLOR" value="bf616a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
