@@ -6,17 +6,17 @@
       <mapping ext="map" type="JSON" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="AsvSpecializations_E_de.json" type="PLAIN_TEXT" />
-      <mapping pattern="special cases" type="PLAIN_TEXT" />
       <mapping pattern="DOUBLE_TEST" type="PLAIN_TEXT" />
+      <mapping pattern="special cases" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ebk" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="parse-pdf-standards" type="TypeScript" />
       <mapping pattern="possible-list-question" type="TypeScript" />
       <mapping pattern="BackendDuration" type="TypeScript" />
-      <mapping pattern="parse-pdf-standards" type="TypeScript" />
       <mapping pattern="._278012389_1234567_20060202_4a.EBK" type="XML" />
       <mapping ext="prf" type="XML" />
       <mapping ext="fbk" type="XML" />

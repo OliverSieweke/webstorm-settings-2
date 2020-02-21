@@ -1,9 +1,5 @@
 <templateSet group="EditorConfig">
-  <template name="edc" value="root = true&#10;$TEST$&#10;[*]&#10;$SELECTION$&#10;$TESTT$&#10;charset = utf-8&#10;end_of_line = lf&#10;indent_size = $indent_size$&#10;indent_style = $indent_style$&#10;insert_final_newline = true&#10;max_line_length = 120&#10;tab_width = 4" description="Default EditorConfig Setttings" toReformat="false" toShortenFQNames="true">
-    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TESTT" expression="" defaultValue="TEST" alwaysStopAt="true" />
-    <variable name="indent_size" expression="" defaultValue="&quot;4&quot;" alwaysStopAt="true" />
-    <variable name="indent_style" expression="" defaultValue="&quot;space&quot;" alwaysStopAt="true" />
+  <template name="edc" value="root = true&#10;&#10;[*]&#10;charset = utf-8&#10;end_of_line = lf&#10;indent_size = 4&#10;indent_style = space&#10;insert_final_newline = true&#10;max_line_length = 120&#10;tab_width = 4" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="ECMAScript6" value="false" />
