@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-03-13T19:57:34</property>
+    <property name="created">2020-02-21T10:18:48</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2020-02-21T10:19:33</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-02-21T10:19:27</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="49d0c5" />
@@ -15,14 +15,10 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a3be8c" />
     <option name="FILESTATUS_MERGED" value="e0af02" />
     <option name="FILESTATUS_MODIFIED" value="6fbef6" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_SUPPRESSED" value="403f53" />
     <option name="FILESTATUS_SWITCHED" value="6fbef6" />
     <option name="FILESTATUS_UNKNOWN" value="4876d6" />
