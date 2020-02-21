@@ -1,0 +1,38 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2020-02-21T10:18:48</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-02-21T10:19:27</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="49d0c5" />
+    <option name="FILESTATUS_DELETED" value="de3d3b" />
+    <option name="FILESTATUS_HIJACKED" value="2aa298" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_MERGED" value="e0af02" />
+    <option name="FILESTATUS_MODIFIED" value="6fbef6" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_SUPPRESSED" value="403f53" />
+    <option name="FILESTATUS_SWITCHED" value="6fbef6" />
+    <option name="FILESTATUS_UNKNOWN" value="4876d6" />
+    <option name="FILESTATUS_addedOutside" value="4876d6" />
+    <option name="FILESTATUS_changelistConflict" value="d6438a" />
+    <option name="FILESTATUS_modifiedOutside" value="6fbef6" />
+  </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="403f53" />
+        <option name="BACKGROUND" value="fbfbfb" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
