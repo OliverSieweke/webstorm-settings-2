@@ -21,12 +21,13 @@
     <option name="statusBarTheme" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
     <option name="useColoredDirectories" value="false" />
     <option name="customSidebarHeight" value="19" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="4" />
     <option name="rightTreeIndent" value="12" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="30" />
     <option name="accentColor" value="a3be8c" />
     <option name="secondAccentColor" value="81a1c1" />
